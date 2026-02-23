@@ -5,7 +5,7 @@
 **Compliance:** ISO 9001:2015 / HFR-IMS  
 
 ## 1. Overview
-This repository serves as the central source of truth for Horizon Frontier (HFR) corporate identity assets. It ensures consistency, technical rigor, and version control across all digital and print communications.
+This repository serves as the central source of truth for Horizon Frontier corporate identity assets. It ensures consistency, technical rigor, and version control across all digital and print communications.
 
 ## 2. Directory Structure
 *   **/assets**: Host for static images (Logos, Icons). accessible via GitHub Pages.
