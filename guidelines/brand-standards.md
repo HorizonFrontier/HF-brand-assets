@@ -1,11 +1,11 @@
-# HFR Brand Standards v1.0
+# HF Brand Standards v1.0
 
 ## 1. Color Palette (Strict)
 **Core Colors**
 *   Paper White: `#FAFAFA`
-*   HFR Charcoal: `#1F2421` (Primary Text)
-*   HFR Teal: `#239C8D` (Primary Brand)
-*   HFR Black: `#0E110C` (Backgrounds)
+*   HF Charcoal: `#1F2421` (Primary Text)
+*   HF Teal: `#239C8D` (Primary Brand)
+*   HF Black: `#0E110C` (Backgrounds)
 
 **Teal Scale**
 *   Dark: `#1C7F73`
