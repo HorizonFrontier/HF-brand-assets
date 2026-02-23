@@ -20,7 +20,7 @@ This repository serves as the central source of truth for Horizon Frontier (HFR)
 
 ## 4. GitHub Pages URL
 Assets in this repository are served publicly at:  
-`https://[YOUR-GITHUB-USERNAME].github.io/hfr-brand-assets/`
+`https://HorizonFrontier.github.io/hfr-brand-assets/`
 
 ---
 *Horizon Frontier © 2026. All Rights Reserved.*
